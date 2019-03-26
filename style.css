@@ -1,0 +1,24 @@
+
+#button{
+    background:skyblue;
+    width:50px;
+    text-align:center;
+    border:solid 2px black;
+}
+
+#input{
+  background:seashell;
+  border-color:coral;
+}
+
+#button2{
+    background:skyblue;
+    width:50px;
+    text-align:center;
+    border:solid 2px black;
+}
+
+#input2{
+  background:seashell;
+  border-color:seagreen;
+}
